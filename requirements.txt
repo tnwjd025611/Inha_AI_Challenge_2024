@@ -1,0 +1,6 @@
+trl
+accelerate
+wandb
+transformers
+peft
+tqdm
